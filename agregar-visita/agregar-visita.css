@@ -1,0 +1,105 @@
+body {
+  font-family: "Roboto" sans-serif;
+  background-color: #f9f7f7;
+}
+
+.navbar-home {
+  padding: 15px !important;
+  background-color: #ffffff !important;
+  box-shadow: 1px 1px 1px lightgray;
+}
+
+.navbar-home a {
+  padding-left: 20px;
+}
+
+.navbar-nombre-usuario {
+  padding-left: 10px;
+}
+
+.navbar-link {
+  color: #000000 !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.right-navbar {
+  margin-left: 80rem;
+}
+
+.right-navbar button {
+  display: inline-block;
+}
+
+.right-navbar li {
+  display: inline-block;
+  padding-right: 40px;
+}
+
+.home-table {
+  padding: 70px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.theader {
+  background-color: #112d4e;
+  color: #ffffff;
+}
+
+.tabla {
+  box-shadow: 1px 1px 1px lightgray;
+}
+
+.tabla td {
+  font-weight: 500;
+  text-align: center;
+}
+
+.tabla th {
+  text-align: center;
+}
+
+.agregar-btn {
+  background-color: #112d4e;
+  border-color: #112d4e;
+  width: 120px;
+  height: 40px;
+  margin-bottom: 40px;
+}
+
+.agregar-usuario-formulario {
+  margin: 40px 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 0px 9px 1px rgba(100, 100, 100, 0.37);
+}
+
+.agregar-usuario-formulario h1 {
+  padding-top: 15px;
+}
+
+.formulario-agregar {
+  margin-top: 20px;
+  width: 40%;
+}
+
+label {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+input {
+  border-radius: 8px !important;
+}
+
+.agregar-container {
+  text-align: center;
+}
