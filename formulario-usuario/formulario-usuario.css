@@ -38,6 +38,7 @@ body {
 
 .home-table {
   padding: 70px;
+  padding-bottom: 20px;
 }
 
 .title {
@@ -77,4 +78,16 @@ body {
 .generar-qr-btn {
   background-color: #3f72af;
   border-color: #3f72af;
+}
+
+.boton-agregar-visita {
+  padding: 10px 50px;
+  margin: 0px 10px;
+  background-color: #112d4e;
+  color: #ffffff;
+}
+
+.boton-agregar {
+  text-align: end;
+  margin-right: 160px;
 }
